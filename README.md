@@ -45,4 +45,8 @@ The calculator features a modern design with intuitive button placement for ease
 - Include additional mathematical operations (e.g., square root, percentages).
 - Support keyboard input for easier usage.
 
+## Contact
+For inquiries or feedback:
+- **Author**: Mohammad Naeem
+- **Email**: mohammdnaeemgg000@gmail.com
 
